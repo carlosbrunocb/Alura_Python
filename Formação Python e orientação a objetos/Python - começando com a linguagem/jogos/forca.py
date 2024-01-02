@@ -70,8 +70,6 @@ def hangman_game():
         if(answer == "Y"):
             add_word()
 
-
-
 def display_header():
     print("+++++++++++++++++++++++++++++")
     print("+ Welcome to Hangman Game! +")
